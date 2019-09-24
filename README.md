@@ -2,7 +2,7 @@
 #  HTML Pricing Table 09
 
 This HTML includes HTML files, stylesheets, all supporting image and JS assets, and optional SASS sources. We hope you have found this HTML freebie not only inspiring but also fit and useful for your project. <br><br>
-[**[Live demo](https://koolui.github.io/pribel-ngo09/)**] ~ [**[Download .sketch file](https://freehtmldesign.blogspot.com/2019/09/modern-and-flat-gradient-pricing-table.html)**] ~ [**[Buy me a coffee](https://ko-fi.com/ariecupu)**]
+[**[Live demo](https://koolui.github.io/pribel-ngo09/)**] ~ [**[Download .sketch file](http://freehtmldesign.com/2019/09/modern-and-flat-gradient-pricing-table.html)**] ~ [**[Buy me a coffee](https://ko-fi.com/ariecupu)**]
 
 ## How to use :
 Clone or download repository
